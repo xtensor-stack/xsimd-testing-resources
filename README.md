@@ -1,1 +1,1 @@
-# xsid-testing-resources
+# xsimd-testing-resources
